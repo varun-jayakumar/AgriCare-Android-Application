@@ -13,9 +13,10 @@ AgriCare combines a mobile app and hardware to help you manage and monitor your 
 
 ## Screenshot
 
-<img src="https://github.com/varun-jayakumar/AgriCare-Android-Application/blob/master/screenshots/landing.jpg?raw=true" width=30% height=30%>
-<img src="https://github.com/varun-jayakumar/AgriCare-Android-Application/blob/master/screenshots/mainPage.jpg?raw=true" width=30% height=30%>
-
+<div>
+<img style="display: inline" src="https://github.com/varun-jayakumar/AgriCare-Android-Application/blob/master/screenshots/landing.jpg?raw=true" width=30% height=30%>
+<img style="display: inline"  src="https://github.com/varun-jayakumar/AgriCare-Android-Application/blob/master/screenshots/mainPage.jpg?raw=true" width=30% height=30%>
+<div>
 Thanks for Reading
 
 > written by Varun Jayakumar
